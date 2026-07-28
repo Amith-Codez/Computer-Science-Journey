@@ -1,2 +1,36 @@
-# Computer-Science-Journey
-A structured repository documenting my Computer Science learning journey, including DSA, Java, OOP, DBMS, Operating Systems, Computer Networks, Web Development, projects, and interview preparation.
+# Computer Science Journey
+
+A structured documentation of my journey to master Computer Science fundamentals, programming, problem solving, and software development.
+
+## About This Repository
+
+This repository contains my learning notes, implementations, experiments, and projects while studying core Computer Science concepts.
+
+## Topics Covered
+
+- Java
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- System Design
+- Web Development
+- Projects
+
+## Repository Structure
+Computer-Science-Journey
+│
+├── Java
+│
+├── DSA
+│
+├── DBMS
+│
+├── Operating-Systems
+│
+├── Computer-Networks
+│
+├── System-Design
+│
+└── Projects
