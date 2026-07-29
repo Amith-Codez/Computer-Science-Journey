@@ -16,7 +16,7 @@ This repository contains my learning notes, implementations, experiments, and pr
 - Computer Networks
 - System Design
 - Web Development
-- Projects
+- Projects 
 
 ## Repository Structure
 Computer-Science-Journey
