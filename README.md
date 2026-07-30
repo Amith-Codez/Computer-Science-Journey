@@ -23,6 +23,8 @@ Computer-Science-Journey
 │
 ├── Java
 │
+├── JavaScript
+│
 ├── DSA
 │
 ├── DBMS
